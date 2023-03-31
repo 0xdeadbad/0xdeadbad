@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3500&pause=1000&color=00CF0C&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+repository;Thanks+for+visiting;Feel+free+to+look+around+and+check+some+repos;I've+been+trying+to+make+this+more+interesting;It+took+a+long+time;More+than+you+think)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3500&pause=1000&color=00CF0C&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+repository;Thanks+for+visiting;Feel+free+to+look+around+and+check+some+repos;I've+been+trying+to+make+this+more+interesting;It+took+a+long+time;More+than+you+think" alt="Typing entity" /></a>
 </p>
 
 <div>
