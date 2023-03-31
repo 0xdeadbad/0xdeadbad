@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-[![Le 0xdeadbad github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=0xdeadbad&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=00AB0A&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+repository;Thanks+for+visiting;Feel+free+to+look+around+and+checkout+some+repos;I've+been+trying+to+make+this+more+interesting;It+took+a+long+time;More+than+you+think)](https://git.io/typing-svg)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdeadbad&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0xdeadbad&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Le 0xdeadbad stats" />
